@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=klte
+export DEVICE=kltedv
 export DEVICE_COMMON=msm8974-common
 export VENDOR=samsung
 
